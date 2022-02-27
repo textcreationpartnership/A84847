@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honest, plain, down-right-dealing with the people called episcopal-men, &amp; Presbyterians. In this seasonable advice given unto them, and their teachers.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84847</idno>
+            <idno type="STC">Wing F2005</idno>
+            <idno type="STC">Thomason E1037_2</idno>
+            <idno type="STC">ESTC R209405</idno>
+            <idno type="EEBO-CITATION">99868286</idno>
+            <idno type="PROQUEST">99868286</idno>
+            <idno type="VID">168939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168939)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1037[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honest, plain, down-right-dealing with the people called episcopal-men, &amp; Presbyterians. In this seasonable advice given unto them, and their teachers.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wilson, and are to be sold at his shop at the Black-spread-Eagle and Wind-Mill in Martins L'Grand,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Geo. Fox the younger.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In this edition line 4 of text ends: know.</note>
+                  <note>Annotation on Thomason copy: "August 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Quaker authors --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168939:1" rendition="simple:additions"/>
+            <head>
+               <hi>Honest, Plain, Down-right-Dealing</hi> WITH THE PEOPLE CALLED <hi>Epiſcopal-Men,</hi> &amp; <hi>Presbyterians.</hi>
+            </head>
+            <head type="sub">In this Seaſonable ADVICE given unto them, and their TEACHERS.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>YOU both pretend in words to be friends to the <hi>King;</hi> now let your actions ſhew forth the ſame, leſt ye (in this Cauſe concerning the <hi>King</hi>) be found like unto thoſe who in words profeſſed to know or love another <hi>King,</hi> but in works denyed him.<note place="margin">
+                  <hi>Tit.</hi> 1.16.</note> There<g ref="char:EOLhyphen"/>fore, labour not to perſwade the <hi>King</hi> to ſet up either of your forms of Worſhip in this manner, (mark) as to compel by outward force all others to conform thereunto, or elſe to perſecute them; for if you do thus, and if the <hi>King</hi> ſhould hearken unto either of you, and fulfill either of your wills in this particular, (mark) you to whom he ſo conſents unto, would ſhortly be made manifeſt to be the greateſt <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> to the <hi>King</hi> in the Nations. And not only the <hi>Kings E<g ref="char:EOLhyphen"/>nemies,</hi> but <hi>Enemies</hi> to your ſelves alſo, even to the endan<g ref="char:EOLhyphen"/>gering of the deſtruction both of the <hi>King</hi> and <hi>your ſelves;</hi> For if the <hi>King</hi> ſhall ſet up either of your Forms, and compel all others thereunto, or elſe perſecute them; (mark) you two are ſo inveterate one againſt another, and have acted already ſo cruelly one againſt another, that thus it will be with you, (mark) you that the <hi>King</hi> ſo ſets up will ſeek to avenge your ſelves, and to lord it over the other, and neither of you are able to ſuffer in patience,<note place="margin">
+                  <hi>Mat,</hi> 5.44, 16</note> (and to for<g ref="char:EOLhyphen"/>give your enemies) as the Miniſters of Chriſt were to do,<note place="margin">
+                  <hi>Mat.</hi> 6 15</note> that
+<pb n="2" facs="tcp:168939:2"/>
+ſo which-ſoever of you were put under the other, you wil be watching to plot both againſt the <hi>King,</hi> &amp; them that are ſet over you; &amp; if you that are put under, can but get an advan<g ref="char:EOLhyphen"/>tage againſt the other, which ſoever of you it be (mark) e<g ref="char:EOLhyphen"/>ven the Mercies of you would be cruelty towards thoſe that kept you under. And if either of your Forms ſhould be ſet up, as before-mentioned, you who be ſet up in that manner will be in great danger of being deſtroyed, and that for theſe reaſons.</p>
+            <p>Firſt, Becauſe it is not owned by the Lord, that any ſhould ſet up a Worſhip, and compel others to it by outward force or perſecution; and this is the way in which either of you would proceed, if ye had power, and thereby you would engage the Lord againſt you and your Worſhip; for the wor<g ref="char:EOLhyphen"/>ſhip which he owns,<note place="margin">
+                  <hi>Iohn</hi> 4.23 24</note> is in the Spirit and in the Truth, and no<g ref="char:EOLhyphen"/>thing but the power of his Spirit can compel thereunto, and they that Rebel againſt this power in matter of Worſhip, are for it to be puniſhed thereby.</p>
+            <p>Secondly, Becauſe the Lord hath decreed to remove op<g ref="char:EOLhyphen"/>preſſion and perſecution, and to judge and blaſt that ſpirit which hath exerciſed cruelty againſt the Saints, and to ſet up Righteouſneſs, and to give his people their juſt Liberty to worſhip him according to the leadings and requirings of his eternal Spirit in them; (mark) and if either of your Forms ſhould be ſet up (as beforementioned) it would ſtrong<g ref="char:EOLhyphen"/>ly oppoſe this Decree of God which cannot be broken, and therefore it would engage the Lord to deſtroy you.</p>
+            <p>Thirdly, if one of you be ſet up, and ye be impower'd by the <hi>King</hi> to compel by outward force all others to your Worſhip, or elſe to perſecute them; (mark) this will exaſpe<g ref="char:EOLhyphen"/>rate the Spirits of moſt of the other <hi>Sects</hi> againſt the <hi>King,</hi> and <hi>you</hi> that ſhall be ſo ſet up; and it will engage all them of the <hi>Sects</hi> that are in the fighting nature, &amp; can uſe a car<g ref="char:EOLhyphen"/>nal Weapon for their own defence, to joyn together as one man againſt the <hi>King,</hi> and either of you that he ſhould ſo ſet up. Therefore if you would be true friends either to the <hi>King,</hi> or <hi>your ſelves,</hi> and <hi>your Nation,</hi> labour not with the <hi>King</hi> to eſtabliſh either of your Forms (or any other) as before mentioned; but if ye own <hi>CHARLES STUART</hi> to be <hi>King,</hi> be content that he may rule over all,
+<pb n="3" facs="tcp:168939:2"/>
+as one, keeping the outward peace among you all, by providing juſt Laws, to puniſh any that would hurt any mans Perſon or Eſtate upon any unjuſt account whatſo<g ref="char:EOLhyphen"/>ever, or any that ſhall run into open profaneneſs;<note place="margin">
+                  <hi>Mat.</hi> 7.12</note> and be content that others may have as much liberty to worſhip their God in that way they are perſwaded to be right, as ye deſire to have in that ye think is right; and lay by all theſe <hi>Carnal Weapons,</hi> as <hi>Priſons, Fires, Gallows, Stocks, Whips,</hi> and all <hi>outward violence,</hi> and uſe none of them (mark) about compelling to a Worſhip: But you that are Teachers,<note place="margin">2 <hi>Cor.</hi> 1 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4</note> come forth with your ſpiritual Weapons (if you have them) and ſmite at the ſpiritual wickedneſs that is exalted in the creatures, if ye be able, wreſtle with that, and not with the creatures; &amp; if without uſing outward force &amp; compulſion,<note place="margin">
+                  <hi>Eph.</hi> 6.12.</note> ye can plant a Vinyard, (as the <hi>Apoſtles</hi> did) then eat of the fruit therof, &amp; if ye can thus gather a flock &amp; keep them, then eat of the milk thereof; &amp; if ye can ſow ſpirituals, then reap of their carnals that receives you and your Teſtimony; and if you be ſent forth by Chriſt,<note place="margin">
+                  <hi>Luk</hi> 22.35</note> then you will not lack any thing; but if you dare not come to this tryal, then it will plainly appear that you are ſuch as ſerve not the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, but your own bellyes;<note place="margin">
+                  <hi>Ier.</hi> 23.32</note> and that you are not ſent of God, but run, and he hath not ſent you; and ſpeak, but he hath not ſpoken unto you, and therefore you can<g ref="char:EOLhyphen"/>not profit the people; (mark) And if the outward peace be kept by the <hi>Kings Law,</hi> that ſo none may do violence to a<g ref="char:EOLhyphen"/>ny mans perſon or Eſtate, then you need not fear if you be in the Spirit of Truth,<note place="margin">1 <hi>John</hi> 4.4.</note> but that ye ſhall overcome them that are in the ſpirit of error, and make them manifeſt when they do oppoſe you; but if you dare not come to this trial,<note place="margin">
+                  <hi>Acts</hi> 6.9, 10.</note> then it will plainly appear, that you are in the ſpirit of er<g ref="char:EOLhyphen"/>ror, and ſuch as cannot ſtand except they be upheld by the Powers of the Earth.</p>
+            <p>Again, and if God ſhould ſuffer this, that either of you could prevail thus far with the <hi>King,</hi> as that he ſhould ſet up either of your Forms, and give you a Law to compel or perſecute outwardly, (mark) thereby you might make ma<g ref="char:EOLhyphen"/>ny hypocrites, who might pretend to foyne unto you, (to ſave their Bodies or Eſtates) until they could find an oppor<g ref="char:EOLhyphen"/>tunity
+<pb n="4" facs="tcp:168939:3"/>
+to deſtroy you; but by all your outward force, you can never convert any unto God; for it is Chriſt, the Immor<g ref="char:EOLhyphen"/>tal, ingrafted Word, which is only able to convert unto God; and it is the work of the true Miniſters to <hi>turn people from darkneſs to light,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 26.18</note>
+               <hi>and from Satan's power unto the power of God;</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 10. 8</note> and to direct them to the <hi>Word which is nigh,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 20.23</note>
+               <hi>in the mouth, and in the heart,</hi>
+               <note place="margin">
+                  <hi>Iam:</hi> 1.21</note> and to commend and keep them to that; and to ex<g ref="char:EOLhyphen"/>hort them <hi>in meekneſs to receive the ingrafted Word, which is able to ſave their ſouls;</hi>
+               <note place="margin">2 <hi>Cor.</hi> 10.4</note> and they muſt not uſe any <hi>Carnal Weapons</hi> to do their work withall, but <hi>Spiritual:</hi> Therefore if you would be counted Chriſts Miniſters, lay by your <hi>Carnal Wea<g ref="char:EOLhyphen"/>pons,</hi> and uſe them no longer about Religion; neither preſs the <hi>King</hi> to ſet up or uphold either of your Forms of worſhip by outward force (as beforementioned) leſt thereby you be<g ref="char:EOLhyphen"/>come Inſtruments to deſtroy the <hi>King,</hi> your <hi>ſelves,</hi> or the <hi>Nation.</hi>
+            </p>
+            <p>So though <hi>King CHARLES</hi> be accounted and ſuffered to be <hi>Head</hi> in things between <hi>man</hi> and <hi>man;</hi> yet let <hi>CHRIST JESUS</hi> the everlaſting <hi>King</hi> be accounted and ſuffered to be <hi>Head</hi> of his <hi>Church,</hi>
+               <note place="margin">
+                  <hi>Eph</hi> 5.23. <hi>&amp;</hi> 4, 13.</note> that ſo <hi>He</hi> may have that which is due unto him;<note place="margin">
+                  <hi>Col.</hi> 1.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8</note> and this were the way for the <hi>true Church,</hi> and <hi>the King,</hi> and <hi>theſe Nations</hi> to proſper, and the way for the <hi>falſe Church,</hi> the <hi>falſe Prophets,</hi> and all plotting u<g ref="char:EOLhyphen"/>ſurping <hi>ſelf-intereſted men</hi> to be confounded.</p>
+            <p>
+               <hi>And this is the deſire of me who am a ſufferer for Righteouſneſs ſake, contrary to any Law of God, or known Law of the Nation.</hi>
+            </p>
+            <closer>
+               <signed>Geo. Fox <hi>the younger.</hi>
+               </signed>
+               <dateline>From my Chamber (the place of my confinenient) in <hi>Lambeth-</hi>Houſe, (<date>the 14th. of the 4th. Month, 1660.</date>)</dateline> where I have perfect peace with God through Jeſus Chriſt, in whom I have true Liberty as a Son, according to the appointment of the Father.
+</closer>
+            <postscript>
+               <p>I cannot flatter any, but muſt spe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k the naked truth unto all; and I ſeek the peace of my Nation, and the good of all men; and I cannot fight with any Creature, but I can fight with the spiritu<g ref="char:EOLhyphen"/>al wickedneſs, though it be in the High Places.</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> and are to be ſold at his Shop at the <hi>Black-spread-Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins L' Grand,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
